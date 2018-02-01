@@ -1,0 +1,12 @@
+100000 milliseconds
+100000/1000 = 100 seconds
+100000%1000 = 0 milliseconds
+100%60 = 40 seconds
+100/60 = 1 min;
+
+
+135424 milliseconds
+135424/1000 through interger division = 135 seconds
+135424%1000 = 424 milliseconds
+135%60 = 15 seconds
+135/60 = 2;
